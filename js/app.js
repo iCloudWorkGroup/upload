@@ -1,5 +1,5 @@
 $(function() {
-	var rootPath = 'http://excel-inc.acmr.com.cn/master/';
+	var rootPath = 'http://excel-inc.acmr.com.cn/';
 	$('#fileupload')
 		.fileupload({
 			url: rootPath + "upload",
